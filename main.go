@@ -1,7 +1,7 @@
 package main
 
 import (
-	Juma "github.com/Adminpyramid/c4/Juma"
+	Juma "github.com/Adminpyramid/c4/juma"
 	// "github.com/Adminpyramid/c4/admin"
 )
 

@@ -1,9 +1,11 @@
 package main
 
 import (
-	"github.com/Adminpyramid/c4/admin"
+	Juma "github.com/Adminpyramid/c4/Juma"
+	// "github.com/Adminpyramid/c4/admin"
 )
 
 func main() {
-	admin.PrintName()
+	// admin.PrintName()
+	Juma.Name()
 }

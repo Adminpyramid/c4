@@ -1,10 +1,12 @@
 package main
 
 import (
-	"calculator/internal/api"
-	"calculator/internal/db"
 	"log"
 	"net/http"
+
+	"github.com/Adminpyramid/c4/calculator/internal/db"
+
+	"github.com/Adminpyramid/c4/calculator/internal/api"
 )
 
 func main() {
